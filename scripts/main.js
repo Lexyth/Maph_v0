@@ -6,3 +6,4 @@ function setupOptions () {
     target.appendChild(option);
   }
 }
+setupOptions();
